@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="1598.8109"
+   height="833.12366"
+   sodipodi:docname="octopus_ending.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     id="namedview4"
+     showgrid="false"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     inkscape:zoom="0.63956638"
+     inkscape:cx="780.04044"
+     inkscape:cy="415.31396"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <image
+     width="600"
+     height="738"
+     xlink:href="file:///home/pivarski/talks/2016-09-15-strangeloop/octopus.png"
+     id="image10"
+     x="-1082.9752"
+     y="-743"
+     transform="scale(-1,-1)" />
+  <text
+     xml:space="preserve"
+     style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans"
+     x="279.54419"
+     y="117.22847"
+     id="text2987"
+     sodipodi:linespacing="105%"><tspan
+       sodipodi:role="line"
+       id="tspan2989"
+       x="279.54419"
+       y="117.22847" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans"
+     x="398.94934"
+     y="70.021652"
+     id="text2991"
+     sodipodi:linespacing="105%"><tspan
+       sodipodi:role="line"
+       x="398.94934"
+       y="70.021652"
+       id="tspan2995">MongoDB's</tspan><tspan
+       sodipodi:role="line"
+       x="398.94934"
+       y="112.02165"
+       id="tspan3015">Javascript</tspan><tspan
+       sodipodi:role="line"
+       x="398.94934"
+       y="154.02165"
+       id="tspan3017">map-reduce</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans"
+     x="339.24677"
+     y="256.53448"
+     id="text2997"
+     sodipodi:linespacing="105%"><tspan
+       sodipodi:role="line"
+       id="tspan2999"
+       x="339.24677"
+       y="256.53448">TensorFlow,</tspan><tspan
+       sodipodi:role="line"
+       x="339.24677"
+       y="298.53448"
+       id="tspan3019">Keras, Theano</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans"
+     x="308.28986"
+     y="453.33191"
+     id="text3001"
+     sodipodi:linespacing="105%"><tspan
+       sodipodi:role="line"
+       x="308.28986"
+       y="453.33191"
+       id="tspan3022">UNIX command</tspan><tspan
+       sodipodi:role="line"
+       x="308.28986"
+       y="495.33191"
+       id="tspan3023"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:Sans">line tool:</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans"
+     x="308.28986"
+     y="692.14221"
+     id="text3007"
+     sodipodi:linespacing="105%"><tspan
+       sodipodi:role="line"
+       id="tspan3009"
+       x="308.28986"
+       y="692.14221">Streaming “tap”</tspan><tspan
+       sodipodi:role="line"
+       x="308.28986"
+       y="734.14221"
+       id="tspan3011">(Storm, S4, etc.)</tspan></text>
+  <text
+     sodipodi:linespacing="105%"
+     id="text3015"
+     y="70.793137"
+     x="1218.3088"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans"
+     xml:space="preserve"><tspan
+       y="70.793137"
+       x="1218.3088"
+       sodipodi:role="line"
+       id="tspan3039">Binary format</tspan><tspan
+       y="112.79314"
+       x="1218.3088"
+       sodipodi:role="line"
+       id="tspan3054">with a schema</tspan><tspan
+       y="154.79314"
+       x="1218.3088"
+       sodipodi:role="line"
+       id="tspan3051">(alternative to JSON)</tspan></text>
+  <text
+     sodipodi:linespacing="105%"
+     id="text3021"
+     y="256.53448"
+     x="1262.2693"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans"
+     xml:space="preserve"><tspan
+       y="256.53448"
+       x="1262.2693"
+       sodipodi:role="line"
+       id="tspan3010">plot.ly, Jupyter</tspan><tspan
+       y="298.53448"
+       x="1262.2693"
+       sodipodi:role="line"
+       id="tspan3020">notebooks, etc.</tspan></text>
+  <text
+     sodipodi:linespacing="105%"
+     id="text3025"
+     y="453.33191"
+     x="1291.566"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans"
+     xml:space="preserve"><tspan
+       y="453.33191"
+       x="1291.566"
+       sodipodi:role="line"
+       id="tspan3043">continuously</tspan><tspan
+       y="495.33191"
+       x="1291.566"
+       sodipodi:role="line"
+       id="tspan3016">filling animation</tspan><tspan
+       y="537.33191"
+       x="1291.566"
+       sodipodi:role="line"
+       id="tspan3021">as data arrive</tspan></text>
+  <text
+     sodipodi:linespacing="105%"
+     id="text3031"
+     y="692.14221"
+     x="1290.7457"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans"
+     xml:space="preserve"><tspan
+       id="tspan3035"
+       y="692.14221"
+       x="1290.7457"
+       sodipodi:role="line">SAGE, MATLAB,</tspan><tspan
+       y="734.14221"
+       x="1290.7457"
+       sodipodi:role="line"
+       id="tspan3047">Mathematica, etc.</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans"
+     x="272.91406"
+     y="827.44397"
+     id="text3053"
+     sodipodi:linespacing="105%"><tspan
+       sodipodi:role="line"
+       id="tspan3055"
+       x="272.91406"
+       y="827.44397">More back-end ideas...</tspan></text>
+  <text
+     sodipodi:linespacing="105%"
+     id="text3059"
+     y="825.23279"
+     x="1326.3422"
+     style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans"
+     xml:space="preserve"><tspan
+       y="825.23279"
+       x="1326.3422"
+       id="tspan3061"
+       sodipodi:role="line">More front-end ideas...</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="151.6297"
+     y="548.77118"
+     id="text3027"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3029"
+       x="151.6297"
+       y="548.77118"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#008000;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono">awk data | hg</tspan></text>
+</svg>
