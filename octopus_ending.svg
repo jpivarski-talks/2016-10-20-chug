@@ -39,8 +39,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1080"
+     inkscape:window-width="1311"
+     inkscape:window-height="1027"
      id="namedview4"
      showgrid="false"
      fit-margin-top="5"
@@ -171,7 +171,11 @@
        y="298.53448"
        x="1262.2693"
        sodipodi:role="line"
-       id="tspan3020">notebooks, etc.</tspan></text>
+       id="tspan3020">notebooks,</tspan><tspan
+       y="340.53448"
+       x="1262.2693"
+       sodipodi:role="line"
+       id="tspan3018">Vega, etc.</tspan></text>
   <text
      sodipodi:linespacing="105%"
      id="text3025"
